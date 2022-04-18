@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cheejennyeong95@gmail.com
+	name = Chee Jenn Yeong
